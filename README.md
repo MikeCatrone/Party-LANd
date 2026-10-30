@@ -34,4 +34,8 @@ Our goal is to help provide a space for tech enthusiasts who like to build and t
 - Counter Culture Espresso
 
 
-**Project Status:** Planning Currently
+**Project Status:** Underway!
+
+## Tools Used
+GitHub Projects - Organize and track project work
+GitHub Repository - Store project files and documentation
