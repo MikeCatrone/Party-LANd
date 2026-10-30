@@ -39,3 +39,6 @@ Our goal is to help provide a space for tech enthusiasts who like to build and t
 ## Tools Used
 GitHub Projects - Organize and track project work
 GitHub Repository - Store project files and documentation
+
+## Project total Budget
+Currently - $16,775.00
