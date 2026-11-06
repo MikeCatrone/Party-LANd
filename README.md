@@ -42,3 +42,10 @@ GitHub Repository - Store project files and documentation
 
 ## Project total Budget
 Currently - $16,775.00
+
+
+## Project Risks
+
+- CPU installation can become damaged by static shock
+- Incorrect Ram positioning can cause system crashes.
+- Computers not connected to a PSU may suffer during electrical storms.
