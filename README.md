@@ -7,6 +7,12 @@
 Documentation for any further software projects within the company as well as documentation updates on computer hardware systems
 
 
+## Project Developers and Roles Currently. This list will grow
+- Mike Catrone: Lead UI
+- Homer Simpson: Junior Web Developer
+- Lisa Simpson: Junior Mobile Developer
+
+
 
 ## Project Goal
 
