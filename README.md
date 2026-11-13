@@ -1,51 +1,40 @@
 
-# Party-LANd
+# Party-LANd - Engineering Platform
 
 
 ## Project Description
 
-Documentation for the construction of a computer hardware cafe where users can build PCs and play games together while enjoying great coffee drinks.
+Documentation for any further software projects within the company as well as documentation updates on computer hardware systems
 
 
 
 ## Project Goal
 
-Our goal is to help provide a space for tech enthusiasts who like to build and tinker with computer systems as well as provide a great cup of coffee.
+This fork is primarily for just the developers, whereas the first branch will be for admin users as well as some developers.
 
 
 
 ## Planned Features
 
-- Coffee Bar onsite
-- Community Events
-- BYO hardware or buy from our hardware shop
-- Weekly video game tournaments
-- Spacious computer desks that allow privacy and personal space
-- Espresso Bar that serves coffee and small snacks
+- Future Software Applications
+- Future Website Development
+- Future Database solutions for the company
 
 
 
 ## Technologies
 
-- Windows Software
-- NVidia and AMD Graphics Cards
-- Asus Motherboards
-- AMD Processors
-- Counter Culture Espresso
+- React
+- Javascript
+- Css
+- SQL
+- PHP
 
 
 **Project Status:** Underway!
 
 ## Tools Used
-GitHub Projects - Organize and track project work
-GitHub Repository - Store project files and documentation
+- VS Code Or developers choice
+- Github
+- Docker
 
-## Project total Budget
-Currently - $16,775.00
-
-
-## Project Risks
-
-- CPU installation can become damaged by static shock
-- Incorrect Ram positioning can cause system crashes.
-- Computers not connected to a PSU may suffer during electrical storms.
